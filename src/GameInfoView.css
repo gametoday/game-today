@@ -1,0 +1,23 @@
+.yes {
+  color: #FD5A1E;
+  font-family: Oswald;
+  font-size: calc(80px + 2vmin)
+}
+
+.no {
+  color: #888484;
+  font-family: Oswald;
+  font-size: calc(80px + 2vmin)
+}
+
+.homeaway {
+  color: #282c34;
+  font-family: Josefin Sans;
+  font-size: calc(30px + 2vmin)
+}
+
+.info {
+  color: #282c34;
+  font-family: Josefin Sans;
+  font-size: calc(25px + 2vmin)
+}
