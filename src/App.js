@@ -12,7 +12,7 @@ function App() {
       <div>Giants game today?</div>
       <GameInfoView {...props}/>
     </div>
-     <footer class="footer">Made with love by caro5</footer>
+     <footer className="footer">Made with love by caro5</footer>
     </div>
   );
 }
