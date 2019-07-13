@@ -11,6 +11,10 @@
 # production
 /build
 
+# server env
+/server/env/*
+/server/get-pip.*
+
 # misc
 .DS_Store
 .env.local
