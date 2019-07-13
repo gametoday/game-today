@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/game-today/static/css/main.247e1461.chunk.css",
+    "main.js": "/game-today/static/js/main.e59ab1a6.chunk.js",
+    "main.js.map": "/game-today/static/js/main.e59ab1a6.chunk.js.map",
+    "runtime~main.js": "/game-today/static/js/runtime~main.a4e94e54.js",
+    "runtime~main.js.map": "/game-today/static/js/runtime~main.a4e94e54.js.map",
+    "static/js/2.571795a5.chunk.js": "/game-today/static/js/2.571795a5.chunk.js",
+    "static/js/2.571795a5.chunk.js.map": "/game-today/static/js/2.571795a5.chunk.js.map",
+    "index.html": "/game-today/index.html",
+    "precache-manifest.20fea0a904b47063ef538fd087bfb5fd.js": "/game-today/precache-manifest.20fea0a904b47063ef538fd087bfb5fd.js",
+    "service-worker.js": "/game-today/service-worker.js",
+    "static/css/main.247e1461.chunk.css.map": "/game-today/static/css/main.247e1461.chunk.css.map"
+  }
+}
