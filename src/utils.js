@@ -4,12 +4,12 @@ const utils = {
     if (Object.entries(gameData).length === 0 && gameData.constructor === Object) {
       return;
     }
-    const teamInfo = gameData.subject.split(' ');
-    const isHomeGame = gameData.subject.split(' ')[2] === mainTeam;
+    const teamInfo = gameData.subject.split(' at ');
+    const isHomeGame = gameData.subject.split(' ')[1].toLowerCase() === mainTeam;
     const location = gameData.location.split(' - ')[0];
     return {
       awayTeam: teamInfo[0],
-      homeTeam: teamInfo[2],
+      homeTeam: teamInfo[1],
       location,
       startDate: gameData.startDate,
       startTime: gameData.startTime,
